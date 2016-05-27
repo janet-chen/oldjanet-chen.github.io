@@ -1,1 +1,20 @@
+<<<<<<< Updated upstream
 
+=======
+gh-pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Janet Chen's website/title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<h1>Janet Chen
+	<h3> <h3/>
+	<a href= "www.instagram.com/jach_x"> instagram </a>
+	<a href= "www.github.io/janet-chen"> github </a>s
+		</h1>
+</body>
+</html>
+>>>>>>> Stashed changes
