@@ -9,6 +9,7 @@ gh-pages
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
+<div class = "container">
 <body>
 	<h1>Janet Chen
 	<h3> </h3>>
@@ -17,6 +18,15 @@ gh-pages
 		</h1>
 		<p> </p>
 		<img src = "http://i.imgur.com/DA9XbxV.jpg" height = "700"/>
+		<ul>
+		<div class = "nav">
+		<li> about me </li>
+		<li> projects </li>
+		<li> art </li>
+		<li> contact me </li> 
+		</ul>
+		</div>
 </body>
+</div>
 </html>
 >>>>>>> Stashed changes
