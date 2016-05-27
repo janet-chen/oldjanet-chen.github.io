@@ -11,6 +11,7 @@ gh-pages
 </head>
 <div class = "container">
 <body>
+<div class = "main">
 	<h1>Janet Chen
 	<h3> </h3>>
 	<a href= "www.instagram.com/jach_x"> instagram </a>
@@ -19,6 +20,8 @@ gh-pages
 		<p> </p>
 		<img src = "http://i.imgur.com/DA9XbxV.jpg" height = "700"/>
 		<ul>
+		</div>
+
 		<div class = "nav">
 		<li> about me </li>
 		<li> projects </li>
