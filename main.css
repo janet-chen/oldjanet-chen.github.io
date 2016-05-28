@@ -6,8 +6,11 @@ body {
 	width: 100%;
 }
 h1 {
-	font-size: 32px;
-	font-family: Helvetica,
-	'Helvetica',
+	font-size: 100px;
+	font-family: Palatino,
+	'Palatino Linotype',
 	serif;
+	text-align: center;
+	color: #008080;
+	font-weight: bold;
 }
